@@ -1,0 +1,46 @@
+﻿02/03/2020 08:00:13 Extracting Values from the Queue..
+02/03/2020 08:00:13 Invoice Number :  Invoice Date : Amount Due :  Purchase Order :  Tax :  Vendor :  Email : 
+02/03/2020 08:00:13 Opening Salesforce Sandbox App...
+02/03/2020 08:00:30 Logged into Salesforce Successfully
+02/03/2020 08:01:05 Searching Purchase Order : PO-097956
+02/03/2020 08:01:06 Extracting Values from the Queue..
+02/03/2020 08:01:06 Invoice Number :  Invoice Date : Amount Due :  Purchase Order :  Tax :  Vendor :  Email : 
+02/03/2020 08:01:32 Searching Purchase Order : PO-097956
+02/03/2020 08:01:32 Extracting Values from the Queue..
+02/03/2020 08:01:32 Invoice Number :  Invoice Date : Amount Due :  Purchase Order :  Tax :  Vendor :  Email : 
+02/03/2020 08:01:57 Searching Purchase Order : PO-097956
+02/03/2020 08:01:58 Extracting Values from the Queue..
+02/03/2020 08:01:58 Invoice Number :  Invoice Date : Amount Due :  Purchase Order :  Tax :  Vendor :  Email : 
+02/03/2020 08:02:23 Searching Purchase Order : PO-097956
+02/03/2020 08:02:23 Extracting Values from the Queue..
+02/03/2020 08:02:23 Invoice Number :  Invoice Date : Amount Due :  Purchase Order :  Tax :  Vendor :  Email : 
+02/03/2020 08:02:49 Searching Purchase Order : PO-097956
+02/03/2020 08:02:49 Extracting Values from the Queue..
+02/03/2020 08:02:49 Invoice Number :  Invoice Date : Amount Due :  Purchase Order :  Tax :  Vendor :  Email : 
+02/03/2020 08:04:46 Extracting Values from the Queue..
+02/03/2020 08:04:46 Invoice Number :  Invoice Date : Amount Due :  Purchase Order :  Tax :  Vendor :  Email : 
+02/03/2020 08:04:46 Opening Salesforce Sandbox App...
+02/03/2020 08:05:02 Logged into Salesforce Successfully
+*********Invoice Process Initiated*********
+02/03/2020 08:05:29 Queue Result : 
+02/03/2020 08:05:30 Searching Purchase Order : PO-097956
+02/03/2020 08:05:44 PO Exist : 1
+02/03/2020 08:05:57 Extracted Account No :  Extracted Amount : 504
+02/03/2020 08:05:57 Extracted Account No :  Queue Amount : 504
+02/03/2020 08:05:57 Amount is Equal
+02/03/2020 08:06:08 PR Exist : True
+02/03/2020 08:06:08 Navigating to Purchase Request Page
+02/03/2020 08:06:13 Approving Manager : Ajay Cheruvathoor Mohan
+02/03/2020 08:06:13 Navigating to Finance & Risk Management...
+02/03/2020 08:06:38 Navigating to Adding Invoice Tab
+02/03/2020 08:06:39 Adding Invoice Data
+02/03/2020 08:07:02 Date Format : 
+02/03/2020 08:07:18 Tax applied for the Invoice
+02/03/2020 08:07:42 Invoice Path : C:\JANET CAROLINE G\HEB PROCESS\Invoices\UAT7\*.pdf
+02/03/2020 08:08:02 Navigating to IS Invoices...
+02/03/2020 08:08:02 Filtering Invoice Number
+02/03/2020 08:08:44 Navigating to Assign Funds
+02/03/2020 08:08:55 Account No : 
+02/03/2020 08:08:55 Account No is empty
+02/03/2020 08:09:40 Navigating to IS Invoices...
+02/03/2020 08:09:40 Filtering Invoice Number

@@ -1,0 +1,75 @@
+﻿02/02/2020 10:42:07 Extracting Values from the Queue..
+02/02/2020 10:42:07 Invoice Number :  Invoice Date : Amount Due :  Purchase Order :  Tax :  Vendor :  Email : 
+02/02/2020 10:42:07 Opening Salesforce Sandbox App...
+02/02/2020 10:42:28 Extracting Values from the Queue..
+02/02/2020 10:42:28 Invoice Number :  Invoice Date : Amount Due :  Purchase Order :  Tax :  Vendor :  Email : 
+02/02/2020 10:42:28 Opening Salesforce Sandbox App...
+02/02/2020 10:44:48 Extracting Values from the Queue..
+02/02/2020 10:44:48 Invoice Number :  Invoice Date : Amount Due :  Purchase Order :  Tax :  Vendor :  Email : 
+02/02/2020 10:44:48 Opening Salesforce Sandbox App...
+02/02/2020 10:45:47 Extracting Values from the Queue..
+02/02/2020 10:45:47 Invoice Number :  Invoice Date : Amount Due :  Purchase Order :  Tax :  Vendor :  Email : 
+02/02/2020 10:45:47 Opening Salesforce Sandbox App...
+02/02/2020 10:46:05 Logged into Salesforce Successfully
+02/02/2020 10:46:50 Searching Purchase Order : PO-000002
+02/02/2020 10:46:51 Extracting Values from the Queue..
+02/02/2020 10:46:51 Invoice Number :  Invoice Date : Amount Due :  Purchase Order :  Tax :  Vendor :  Email : 
+02/02/2020 10:47:17 Searching Purchase Order : PO-000002
+02/02/2020 10:47:17 Extracting Values from the Queue..
+02/02/2020 10:47:17 Invoice Number :  Invoice Date : Amount Due :  Purchase Order :  Tax :  Vendor :  Email : 
+02/02/2020 10:47:42 Searching Purchase Order : PO-000002
+02/02/2020 10:47:42 Extracting Values from the Queue..
+02/02/2020 10:47:42 Invoice Number :  Invoice Date : Amount Due :  Purchase Order :  Tax :  Vendor :  Email : 
+02/02/2020 10:48:08 Searching Purchase Order : PO-000002
+02/02/2020 10:48:08 Extracting Values from the Queue..
+02/02/2020 10:48:08 Invoice Number :  Invoice Date : Amount Due :  Purchase Order :  Tax :  Vendor :  Email : 
+02/02/2020 10:48:33 Searching Purchase Order : PO-000002
+02/02/2020 10:48:33 Extracting Values from the Queue..
+02/02/2020 10:48:33 Invoice Number :  Invoice Date : Amount Due :  Purchase Order :  Tax :  Vendor :  Email : 
+02/02/2020 10:50:42 Extracting Values from the Queue..
+02/02/2020 10:50:42 Invoice Number :  Invoice Date : Amount Due :  Purchase Order :  Tax :  Vendor :  Email : 
+02/02/2020 10:50:42 Opening Salesforce Sandbox App...
+02/02/2020 10:50:59 Logged into Salesforce Successfully
+*********Invoice Process Initiated*********
+02/02/2020 10:51:33 Queue Result : 
+02/02/2020 10:51:33 Searching Purchase Order : PO-000002
+02/02/2020 10:52:16 PO Exist : 0
+02/02/2020 10:52:16 PO does not Exist.. Calling Exception API...
+02/02/2020 10:52:16 PO does not Exist
+02/02/2020 10:52:16 Extracting Values from the Queue..
+02/02/2020 10:52:16 Invoice Number :  Invoice Date : Amount Due :  Purchase Order :  Tax :  Vendor :  Email : 
+02/02/2020 10:52:41 Searching Purchase Order : PO-000002
+02/02/2020 10:52:41 Extracting Values from the Queue..
+02/02/2020 10:52:41 Invoice Number :  Invoice Date : Amount Due :  Purchase Order :  Tax :  Vendor :  Email : 
+02/02/2020 10:53:07 Searching Purchase Order : PO-000002
+02/02/2020 10:53:07 Extracting Values from the Queue..
+02/02/2020 10:53:07 Invoice Number :  Invoice Date : Amount Due :  Purchase Order :  Tax :  Vendor :  Email : 
+02/02/2020 10:57:20 Extracting Values from the Queue..
+02/02/2020 10:57:20 Invoice Number :  Invoice Date : Amount Due :  Purchase Order :  Tax :  Vendor :  Email : 
+02/02/2020 10:57:20 Opening Salesforce Sandbox App...
+02/02/2020 10:57:37 Logged into Salesforce Successfully
+*********Invoice Process Initiated*********
+02/02/2020 10:58:08 Queue Result : 
+02/02/2020 10:58:08 Searching Purchase Order : PO-097956
+02/02/2020 10:58:22 PO Exist : 1
+02/02/2020 10:58:35 Extracted Account No :  Extracted Amount : 504
+02/02/2020 10:58:35 Extracted Account No :  Queue Amount : 504
+02/02/2020 10:58:35 Amount is Equal
+02/02/2020 10:58:46 PR Exist : True
+02/02/2020 10:58:48 Navigating to Purchase Request Page
+02/02/2020 10:58:51 Approving Manager : Ajay Cheruvathoor Mohan
+02/02/2020 10:58:51 Navigating to Finance & Risk Management...
+02/02/2020 10:59:16 Navigating to Adding Invoice Tab
+02/02/2020 10:59:16 Adding Invoice Data
+02/02/2020 10:59:46 Date Format : 
+02/02/2020 11:00:02 Tax applied for the Invoice
+02/02/2020 11:00:25 Invoice Path : C:\JANET CAROLINE G\HEB PROCESS\Invoices\UAT6\*.pdf
+02/02/2020 11:00:45 Navigating to IS Invoices...
+02/02/2020 11:00:45 Filtering Invoice Number
+02/02/2020 11:01:28 Navigating to Assign Funds
+02/02/2020 11:01:39 Account No : 
+02/02/2020 11:01:39 Account No is empty
+02/02/2020 11:02:24 Navigating to IS Invoices...
+02/02/2020 11:02:24 Filtering Invoice Number
+02/02/2020 11:02:59 Extracting Values from the Queue..
+02/02/2020 11:02:59 Invoice Number :  Invoice Date : Amount Due :  Purchase Order :  Tax :  Vendor :  Email : 
